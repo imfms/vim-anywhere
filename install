@@ -73,6 +73,7 @@ if [[ $OSTYPE == "linux-gnu" ]]; then
   require_one_installed gconftool gsettings
   require_installed gvim
   require_installed xclip
+  require_installed xdotool
 
 # OSX specific checks
 elif [[ $OSTYPE == "darwin"* ]]; then
