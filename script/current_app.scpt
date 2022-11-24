@@ -1,6 +1,6 @@
 -- vim-anywhere - use Vim whenever, wherever
--- Author: Chris Knadler
--- Homepage: https://www.github.com/cknadler/vim-anywhere
+-- Origin Project:https://www.github.com/cknadler/vim-anywhere
+-- This is my customization fork, Homepage: https://www.github.com/imfms/vim-anywhere
 --
 -- Get the current application's name
 

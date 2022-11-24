@@ -1,5 +1,8 @@
 # vim-anywhere
 
+> Origin Project:https://www.github.com/cknadler/vim-anywhere
+> This is my customization fork, Homepage: https://www.github.com/imfms/vim-anywhere
+
 Sometimes, you edit text outside of Vim. These are sad times. Enter
 vim-anywhere!
 
@@ -25,7 +28,7 @@ __Linux:__
 #### Install
 
 ```bash
-curl -fsSL https://raw.github.com/cknadler/vim-anywhere/master/install | bash
+curl -fsSL https://raw.github.com/imfms/vim-anywhere/master/install | bash
 ```
 
 #### Update
